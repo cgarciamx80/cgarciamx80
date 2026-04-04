@@ -5,7 +5,7 @@
 ![AI](https://img.shields.io/badge/AI-Assisted-green)
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-orange)
 
-**Senior QA Lead | AI-Assisted Quality Engineering | 20+ Years in Software Quality Engineering**
+**QA | Lead | AI-Assisted**
 
 ---
 
