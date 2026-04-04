@@ -1,11 +1,12 @@
 # Carlos García
+
 🚀 Senior QA Lead specializing in AI-assisted testing and requirements-first quality engineering
+
+Helping teams deliver higher-quality software faster through intelligent QA systems
 
 ![QA](https://img.shields.io/badge/QA-Lead-blue)
 ![AI](https://img.shields.io/badge/AI-Assisted-green)
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-orange)
-
-**QA | Lead | AI-Assisted**
 
 ---
 
