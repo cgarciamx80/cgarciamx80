@@ -81,7 +81,7 @@ https://github.com/cgarciamx80/qa-ai-workflow
 
 ## Experience Snapshot
 
-- 18+ years in QA across web, mobile, and enterprise systems  
+- 20+ years in QA across web, mobile, and enterprise systems  
 - Led QA teams of 30+ engineers in nearshore environments  
 - Designed scalable QA processes for large platforms  
 - Strong background in functional testing and real-world validation  
@@ -90,8 +90,8 @@ https://github.com/cgarciamx80/qa-ai-workflow
 
 ## Let's Connect
 
-- LinkedIn: [Add your link]  
-- Email: [Add your email]  
+- LinkedIn: https://www.linkedin.com/in/carlos-garcia-91b710202/ 
+- Email: cgarcia.mx80@gmail.com 
 
 ---
 
