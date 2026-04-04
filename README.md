@@ -25,7 +25,7 @@ My approach focuses on:
 
 ## Current Focus
 
-- AI-assisted QA workflows using tools like Claude and ChatGPT  
+- Applying AI tools (Claude, ChatGPT) to accelerate test design, analysis, and QA workflows 
 - Practical automation with Playwright (AI-supported, not framework-heavy)  
 - Extending QA practices into AI systems (LLMs, prompt validation, agent behavior)  
 - Building scalable QA processes for modern engineering teams  
