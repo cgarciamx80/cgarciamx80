@@ -2,7 +2,7 @@
 
 🚀 Senior QA Lead specializing in AI-assisted testing and requirements-first quality engineering
 
-Helping teams deliver higher-quality software faster through intelligent QA systems
+Helping teams deliver higher-quality software faster through intelligent QA processes and AI-assisted workflows
 
 ![QA](https://img.shields.io/badge/QA-Lead-blue)
 ![AI](https://img.shields.io/badge/AI-Assisted-green)
@@ -12,14 +12,14 @@ Helping teams deliver higher-quality software faster through intelligent QA syst
 
 ## What I Do
 
-I design QA systems that ensure software is tested based on **requirements and expected behavior**, not just implementation.
+I design QA processes that ensure software is tested based on requirements and expected behavior, not just implementation.
 
 My approach focuses on:
 - Requirements-first testing methodology
 - Strong test design and coverage
 - Real-world validation of user behavior
 - High-quality defect analysis and reporting
-- AI-assisted QA workflows to improve efficiency without sacrificing quality
+- AI-assisted QA workflows that accelerate test design and analysis while maintaining high-quality validation
 
 ---
 
