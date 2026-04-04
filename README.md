@@ -2,7 +2,7 @@
 
 ![QA](https://img.shields.io/badge/QA-Lead-blue)
 ![AI](https://img.shields.io/badge/AI-Assisted-green)
-![Experience](https://img.shields.io/badge/Experience-18%2B%20Years-orange)
+![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-orange)
 
 **Senior QA Lead | AI-Assisted Quality Engineering | 20+ Years Experience**
 
