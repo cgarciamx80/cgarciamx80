@@ -1,100 +1,27 @@
 # Carlos García
 
-🚀 Senior QA Lead specializing in AI-assisted testing and requirements-first quality engineering
+Studying how AI systems behave when no one specified what they should do.
 
-Helping teams deliver higher-quality software faster through intelligent QA processes and AI-assisted workflows
-
-![QA](https://img.shields.io/badge/QA-Lead-blue)
-![AI](https://img.shields.io/badge/AI-Assisted-green)
-![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-orange)
+Built on 20 years of QA discipline — adapted for probabilistic systems.
 
 ---
 
-## What I Do
+## What I'm building
 
-I design QA processes that ensure software is tested based on requirements and expected behavior, not just implementation.
+**[ai-human-observatory](https://github.com/cgarciamx80/ai-human-observatory)** — Field research on AI behavioral patterns. 7 structured observations from real working sessions. Each documents context, hypotheses, and replication design. N=1, by design.
 
-My approach focuses on:
-- Requirements-first testing methodology
-- Strong test design and coverage
-- Real-world validation of user behavior
-- High-quality defect analysis and reporting
-- AI-assisted QA workflows that accelerate test design and analysis while maintaining high-quality validation
+**[qa-ai-workflow](https://github.com/cgarciamx80/qa-ai-workflow)** — Claude API + Playwright pipeline: user story in, test plan + Playwright specs + executed results + bug reports out. Requirements-first, no manual handoff.
+
+**[ai-eval-toolkit](https://github.com/cgarciamx80/ai-eval-toolkit)** — Reproducible LLM evaluation experiments. Fixed stimuli, versioned protocols, automated runners, CSV result logs. Built for independent verification.
 
 ---
 
-## Current Focus
+## Current focus
 
-- Applying AI tools (Claude, ChatGPT) to accelerate test design, analysis, and QA workflows 
-- Practical automation with Playwright (AI-supported, not framework-heavy)  
-- Extending QA practices into AI systems (LLMs, prompt validation, agent behavior)  
-- Building scalable QA processes for modern engineering teams  
+Behavioral pattern analysis in LLM-assisted workflows · Reproducible evaluation methodology · Human-AI interaction research
 
 ---
 
-## Featured Project
+## Find me
 
-### AI-Assisted QA Workflow
-
-End-to-end QA pipeline that transforms a user story into:
-- Test Plan  
-- Structured Test Cases  
-- Playwright test execution (AI-assisted)  
-- Execution results analysis  
-- Bug reports (Jira / Azure DevOps format)  
-
-This project demonstrates how a Senior QA can leverage AI to improve **test design, traceability, and execution workflows** while keeping QA decision-making human-driven.
-
-👉 **View Project:**  
-https://github.com/cgarciamx80/qa-ai-workflow
-
----
-
-## QA Philosophy
-
-- Test what **should be built**, not what was built  
-- Acceptance Criteria is the source of truth  
-- Code is used for edge cases and regression risk — not test generation  
-- Every test should be atomic, verifiable, and reusable  
-- QA is not execution — it is **thinking, validation, and risk control**  
-
----
-
-## Skills
-
-### QA Strategy & Leadership
-- Test Planning & Design  
-- Requirements Analysis  
-- Risk-Based Testing  
-- Defect Lifecycle Management  
-- Cross-team QA leadership  
-
-### AI-Assisted QA
-- Claude / ChatGPT workflows  
-- AI-generated test artifacts  
-- QA process optimization using AI  
-
-### Tools
-- Jira / Azure DevOps  
-- Playwright (practical usage)  
-- Git / CLI tools  
-
----
-
-## Experience Snapshot
-
-- 20+ years in QA across web, mobile, and enterprise systems  
-- Led QA teams of 30+ engineers in nearshore environments  
-- Designed scalable QA processes for large platforms  
-- Strong background in functional testing and real-world validation  
-
----
-
-## Let's Connect
-
-- LinkedIn: https://www.linkedin.com/in/carlos-garcia-91b710202/ 
-- Email: cgarcia.mx80@gmail.com 
-
----
-
-> Building the next generation of QA: combining **experience, methodology, and AI**
+[holteck.com](https://holteck.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/carlos-garcia-aiqa) &nbsp;·&nbsp; carlos@holteck.com
